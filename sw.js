@@ -1,5 +1,5 @@
 /* Offline-Zwischenspeicher für HEJ unterwegs. Version erhöhen, wenn sich Dateien ändern. */
-const CACHE = "hej-mobil-v2";
+const CACHE = "hej-mobil-v3";
 const SHELL = ["./", "index.html", "style.css", "app.js", "fflate.min.js", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
